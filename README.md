@@ -138,7 +138,7 @@
     <div id="mySidebar" class="sidebar">
         <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
         <a href="javascript:void(0)" onclick="showSection('makanan')">Makanan Ringan</a>
-        <a href="javascript:void(0)" onclick="showSection('minuman')">Minuman Trending</a>
+        <a href="javascript:void(0)" onclick="showSection('minuman')">Soft Drink</a>
     </div>
 
     <div class="container">
@@ -153,7 +153,7 @@
             </ul>
         </div>
         <div id="minuman" class="menu-section">
-            <h2>Minuman Trending</h2>
+            <h2>Soft Drink</h2>
             <ul>
                 <li><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKxvfLvcWDlIObKNGWJLlUM6zOpxEqhcWtw77-K3M2TQ&s" alt="Boba Milk Tea"> Boba Milk Tea</li>
                 <li><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjWIVkKb630icstPI8lBsutFC2v_8rFNXuFmgGPXnHjQ&s" alt="Kopi Dalgona"> Kopi Dalgona</li>
